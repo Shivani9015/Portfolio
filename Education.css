@@ -1,0 +1,14 @@
+#two{
+    text-align: center;
+    
+}
+body {
+    background-color:blanchedalmond;
+    
+}
+
+table, th, td {
+    column-gap:inherit;
+    border:10px solid black;
+
+}
